@@ -5,7 +5,7 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-Practice", "CSharp-Practice\CSharp-Practice.csproj", "{B52B32E6-F8E2-4D90-9906-DA43977B5414}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project1", "Project1\Project1.csproj", "{0450780A-F582-46D9-914F-E2F4287D6823}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_1", "Project1\Project_1.csproj", "{0450780A-F582-46D9-914F-E2F4287D6823}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
