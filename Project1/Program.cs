@@ -8,7 +8,7 @@
 
 		// "3+3" "3 - 1" 같이 문자열 형식으로 입력하면 자동으로 계산되는 계산기를 만들어보자. 
 
-		static void Main(string[] args)
+		static void Main1(string[] args)
 		{
 			string str = "";
 			double result = 0;
